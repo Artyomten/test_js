@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(255, 255, 224);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10pt;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    margin-left: 20;
+    margin-right: 20;
+    margin-bottom: 3;
+}
+
+h1 {
+    font-size: 12pt;
+    color: rgb(204, 0, 0);
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30;
+    margin-bottom: 12;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 301px;
+}
